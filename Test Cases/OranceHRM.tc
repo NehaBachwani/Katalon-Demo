@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OranceHRM</description>
+   <name>OranceHRM</name>
+   <tag>HRM</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ad4dc8a-cda6-4dcc-b58a-760a275faf6b</testCaseGuid>
+</TestCaseEntity>

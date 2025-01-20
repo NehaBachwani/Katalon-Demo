@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OrangeHRMDemo,Chrome 131.0.0.0,,,20-01-2025 20:59:32,20-01-2025 20:59:50,17.509s,PASSED
+,,,,,,,
+Test Cases/OranceHRM,Chrome 131.0.0.0,OranceHRM,HRM,20-01-2025 20:59:33,20-01-2025 20:59:50,17.158s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,20-01-2025 20:59:33,20-01-2025 20:59:36,3.411s,PASSED
+"navigateToUrl(""https://orangehrmlive.com/"")",Chrome 131.0.0.0,,,20-01-2025 20:59:36,20-01-2025 20:59:40,3.978s,PASSED
+"click(findTestObject(""Object Repository/Page_Human Resources Management Software  O_31d1a1/button_Book a Free Demo""))",Chrome 131.0.0.0,,,20-01-2025 20:59:40,20-01-2025 20:59:43,2.300s,PASSED
+"setText(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/input_Full Name_FullName""), ""Neha"")",Chrome 131.0.0.0,,,20-01-2025 20:59:43,20-01-2025 20:59:43,0.799s,PASSED
+"setText(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/input_Phone Number_Contact""), ""1234567890"")",Chrome 131.0.0.0,,,20-01-2025 20:59:43,20-01-2025 20:59:44,0.796s,PASSED
+"setText(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/input_Email_Email""), ""nehabac@gmail.com"")",Chrome 131.0.0.0,,,20-01-2025 20:59:44,20-01-2025 20:59:45,0.770s,PASSED
+"setText(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/input_Company Name_CompanyName""), ""Neha"")",Chrome 131.0.0.0,,,20-01-2025 20:59:45,20-01-2025 20:59:46,0.749s,PASSED
+"click(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/input_No Of Employees_action_submitForm""))",Chrome 131.0.0.0,,,20-01-2025 20:59:46,20-01-2025 20:59:48,2.409s,PASSED
+"click(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/div_We Just Need a Few Details.            _748e3f""))",Chrome 131.0.0.0,,,20-01-2025 20:59:48,20-01-2025 20:59:49,0.620s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Book Your Free Demo  OrangeHRM/h4_We Just Need a Few Details""), ""We Just Need a Few Details."")",Chrome 131.0.0.0,,,20-01-2025 20:59:49,20-01-2025 20:59:49,0.339s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,20-01-2025 20:59:49,20-01-2025 20:59:50,0.676s,PASSED
